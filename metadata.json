@@ -1,0 +1,9 @@
+{
+  "name": "Pearl Makeover Beauty Parlour",
+  "description": "Certified makeup artists with 5+ years experience. Bridal makeup, skin treatments, hair styling & spa in Ekma, Bihar. Call 6202514251",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
